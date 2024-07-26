@@ -1,0 +1,10 @@
+# Ignore.env file
+.env
+
+# Ignore other files and directories that you don't want to track
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
